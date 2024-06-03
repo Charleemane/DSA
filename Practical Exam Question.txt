@@ -1,0 +1,42 @@
+Create a program which simulates a bank queue where customers can deposit, withdraw, and check their balance.
+
+The program must have a class in a separate file. Save this file as Bank.h
+
+The class is used to perform bank operations like deposit, withdraw, and check balance. The class contains the following private data members:
+
+a structure named Customer with the following members:
+    a. an integer variable named accountNumber
+    b. a string variable named name
+    c. a double variable named balance
+Function prototypes for the following member functions:
+    a. a constructor that initializes the accountNumber, name, and balance of the customer
+    b. a function named deposit that accepts a double argument and adds it to the balance of the customer
+    c. a function named withdraw that accepts a double argument and subtracts it from the balance of the customer
+    d. a function named checkBalance that returns the balance of the customer
+    e. a function that displays the account number, name, and balance of the customer
+The requirements are as follows:
+
+A customer queue is created and the customer objects are added to the queue.
+Tellers will serve the customers in the queue.
+After serving the customer, the teller will display the customer's information and ask the customer if they have any more transactions.
+If the customer has more transactions, the customer will be added back to the queue.
+If the customer has no more transactions, the customer will be removed from the queue.
+The process will continue until the queue is empty or the teller decides to close the bank.
+The queue will be implemented using the STL queue container.
+The queue must be displayed, followed by a menu that asks the teller to perform the following operations:
+    a. Add a customer to the queue
+    b. Serve the next customer in the queue
+    c. Close the bank
+The teller will enter the choice and the corresponding operation will be performed.
+If the teller chooses  to add a customer to the queue, the teller will be asked to enter the customer's information and the customer will be added to the queue.
+If the teller chooses to serve the next customer in the queue, the teller will perform the following operations:
+     a. Ask the customer if they want to deposit or withdraw
+     b. Perform the corresponding operation
+     c. Ask the customer if they have any more transactions
+     d. If the customer has more transactions, the customer will be added back to the queue
+     e. If the customer has no more transactions, the customer will be removed from the queue
+If the teller chooses to close the bank, a message will be displayed that the bank is closed.
+The process will continue until the teller decides to close the bank.
+Each time an operation is performed, the screen will be cleared and the queue and menu will be displayed again.
+IMPORTANT NOTICE: Anyone who will be caught or, upon investigation, found cheating will be FAILED in this activity and will be reported to the Discipline Office for possible disciplinary action. Cheating includes, but is not limited to, using AI to generate codes (if you have installed extensions for your programming IDE please disable it), copying other students work (including letting others copy your work), or asking someone to do the activity in your behalf. You are ALLOWED to open all our modules, examples, and even look for references from the Web like W3Schools.
+
