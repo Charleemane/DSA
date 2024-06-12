@@ -1,0 +1,63 @@
+* {
+    background-color: blueviolet;
+    outline: 1px black dotted;
+}
+
+/*.imgBx {
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+}*/
+
+.coc-logo {
+    display: flex;
+    justify-self: flex-start;
+    width: 250px;
+    padding: 20px;
+
+    & :hover {
+        animation: rotate;
+        
+    }
+}
+
+.coc-troop {
+    display: flex;
+    align-self: center;
+    justify-self: flex-start;
+    padding: 20px 0 0 250px;
+
+    & :hover {
+        box-shadow: 5rem;
+        
+    }
+}
+
+
+/*.coc-troop, h1{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 250px 250px;
+}*/
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*padding: 0 0 0 100px;*/
+    width: 75%;
+    align-self: center;
+
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /*padding: 0 0 0 100px;*/
+    width: 100%;
+    align-self: center;
+}
+
+
