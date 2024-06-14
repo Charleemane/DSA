@@ -14,50 +14,74 @@
     justify-self: flex-start;
     width: 250px;
     padding: 20px;
+    animation: rotate;
 
     & :hover {
-        animation: rotate;
-        
+        ;
     }
 }
 
-.coc-troop {
+/*.coc-troop {
     display: flex;
     align-self: center;
     justify-self: flex-start;
-    padding: 20px 0 0 250px;
+    padding: 20 0 0 250px;
+    animation: rotate;
 
     & :hover {
         box-shadow: 5rem;
         
     }
+}*/
+
+
+.center{
+    display: grid;
+    grid-template-columns: repeat(3, 400px);
+    gap: 0;
+    /*grid-template-rows: 250px 250px;*/
 }
 
-
-/*.coc-troop, h1{
+.coc-troop {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: 250px 250px;
-}*/
+    grid-column: 2;
+}
 
 h1 {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    /*padding: 0 0 0 100px;*/
-    width: 75%;
+    justify-content: ;
     align-self: center;
-
 }
 
-.center{
+.subtitle {
+    display: flex;
+    align-self: ;
+}
+
+.paragraph {
+    display: grid;
+    grid-column: 2;
+}
+
+.headers {
+    display: grid;
+    grid-column: 2;
+}
+
+.footers {
+    display: grid;
+    grid-column: 3;
+}*/
+
+
+/*.center{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /*padding: 0 0 0 100px;*/
+    /*padding: 0 0 0 100px;
     width: 100%;
     align-self: center;
-}
+}*/
 
 
