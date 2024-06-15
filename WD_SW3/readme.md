@@ -118,3 +118,15 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+https://www.stickpng.com/cat/games/clash-of-clans?page=1
+
+https://getbootstrap.com/docs/5.0/examples/headers/
+
+https://www.google.com/search?q=material+ui+header&sca_esv=580358c80b5d5430&sca_upv=1&rlz=1C1GCEU_enPH1106PH1106&ei=bmNtZsSCHZHm2roPuvqemA8&ved=0ahUKEwjE8dGTqt2GAxURs1YBHTq9B_MQ4dUDCBA&uact=5&oq=material+ui+header&gs_lp=Egxnd3Mtd2l6LXNlcnAiEm1hdGVyaWFsIHVpIGhlYWRlcjILEAAYgAQYkQIYigUyBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB5IrQtQ5QZY8AhwAXgBkAEAmAFDoAG2AaoBATO4AQPIAQD4AQGYAgSgAscBwgIKEAAYsAMY1gQYR5gDAIgGAZAGCJIHATSgB-wT&sclient=gws-wiz-serp
+
+https://www.pngwing.com/en/search?q=bow+and+arrow
+
+https://webcode.tools/css-generator/drop-shadow
+
+https://dribbble.com/tags/gaming-header
